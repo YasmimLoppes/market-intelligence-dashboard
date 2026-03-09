@@ -55,4 +55,4 @@ with tab2:
 st.subheader("📄 Tabela de Dados Estruturados")
 st.dataframe(df_filtrado[['symbol', 'name', 'current_price', 'market_cap']], use_container_width=True)
 
-st.info("Desenvolvido por Otávio | Foco em Engenharia de Dados")
+st.info("Desenvolvido por Yasmin Lopes | Foco em Engenharia de Dados")
