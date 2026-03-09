@@ -21,4 +21,4 @@ Transformar dados brutos em informação visual para facilitar a tomada de decis
 * Tabela de dados estruturada.
 
 ---
-**Desenvolvido por Yasmin** | 3º Semestre ADS
+**Desenvolvido por Yasmin Lopes** | 3º Semestre ADS
